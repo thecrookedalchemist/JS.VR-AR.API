@@ -1,7 +1,7 @@
 # JS.VR-AR.API
-First JavaScript API for mixed-reality platform.
+First JavaScript API library for mixed-reality platform.
 
-* The aim of this API is to make mixed-reality available as an opensource project.
+* The aim of this API library is to make mixed-reality available as an opensource project.
 
 * We also want to make it easier to make one application that uses both a virtual and augmented world.
 
